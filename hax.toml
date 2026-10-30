@@ -1,0 +1,3 @@
+[scenario.bm]
+backend = "lean"
+include = ["bm_hax_demo::majority_candidate"]
